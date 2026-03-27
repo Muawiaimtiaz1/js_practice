@@ -1,0 +1,7 @@
+Create an array of 5 numbers and print each number using a loop.
+Find the length of an array.
+Access the first and last elements of an array.
+Add a number to the end and beginning of an array.
+Remove a number from the end and beginning of an array.
+Check if an array includes a specific value.
+Find the index of a particular element.
